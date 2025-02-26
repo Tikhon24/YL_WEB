@@ -1,0 +1,653 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "request": "Барнаул",
+          "results": "10",
+          "found": "10"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Алтайский край, Барнаул",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Алтайский край, Барнаул",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Сибирский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Алтайский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Барнаул"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Барнаул"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Алтайский край, Барнаул",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Алтайский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Барнаул",
+                        "Locality": {
+                          "LocalityName": "Барнаул"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Барнаул",
+            "description": "Алтайский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "83.533018 53.186965",
+                "upperCorner": "83.908136 53.48281"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzExNzk1MBI50KDQvtGB0YHQuNGPLCDQkNC70YLQsNC50YHQutC40Lkg0LrRgNCw0LksINCR0LDRgNC90LDRg9C7IgoNwY2nQhUcY1VC",
+            "Point": {
+              "pos": "83.776856 53.346785"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Курганская область, Варгашинский муниципальный округ, деревня Барнаул",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Курганская область, Варгашинский муниципальный округ, деревня Барнаул",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Курганская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Варгашинский муниципальный округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "деревня Барнаул"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Курганская область, Варгашинский муниципальный округ, деревня Барнаул",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Курганская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Варгашинский муниципальный округ",
+                        "Locality": {
+                          "LocalityName": "деревня Барнаул"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "деревня Барнаул",
+            "description": "Варгашинский муниципальный округ, Курганская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "66.244114 55.654594",
+                "upperCorner": "66.253789 55.66078"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzE1NTM0NBKQAdCg0L7RgdGB0LjRjywg0JrRg9GA0LPQsNC90YHQutCw0Y8g0L7QsdC70LDRgdGC0YwsINCS0LDRgNCz0LDRiNC40L3RgdC60LjQuSDQvNGD0L3QuNGG0LjQv9Cw0LvRjNC90YvQuSDQvtC60YDRg9CzLCDQtNC10YDQtdCy0L3RjyDQkdCw0YDQvdCw0YPQuyIKDXZ_hEIVFp9eQg,,",
+            "Point": {
+              "pos": "66.248947 55.655356"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "street",
+                "text": "Россия, А-321",
+                "kind": "street",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, А-321",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "А-321"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, А-321",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "Thoroughfare": {
+                      "ThoroughfareName": "А-321"
+                    }
+                  }
+                }
+              }
+            },
+            "name": "А-321",
+            "description": "Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "78.626698 52.458333",
+                "upperCorner": "83.596313 53.357035"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgc4MDIxMjczEhTQoNC-0YHRgdC40Y8sINCQLTMyMSIKDcFpokIVJ4lSQg,,",
+            "Point": {
+              "pos": "81.206552 52.633936"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "street",
+                "text": "Россия, А-322",
+                "kind": "street",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, А-322",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "А-322"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, А-322",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "Thoroughfare": {
+                      "ThoroughfareName": "А-322"
+                    }
+                  }
+                }
+              }
+            },
+            "name": "А-322",
+            "description": "Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "81.090013 51.211671",
+                "upperCorner": "83.728276 53.268137"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgc4MDIxMjUzEhTQoNC-0YHRgdC40Y8sINCQLTMyMiIKDXm8pEIV_jhRQg,,",
+            "Point": {
+              "pos": "82.368109 52.305653"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Западно-Сибирская железная дорога, станция Барнаул",
+                "kind": "railway_station",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Западно-Сибирская железная дорога, станция Барнаул",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Сибирский федеральный округ"
+                    },
+                    {
+                      "kind": "route",
+                      "name": "Западно-Сибирская железная дорога"
+                    },
+                    {
+                      "kind": "railway_station",
+                      "name": "станция Барнаул"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Западно-Сибирская железная дорога, станция Барнаул",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "Country": {
+                      "Locality": {
+
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "станция Барнаул",
+            "description": "Западно-Сибирская железная дорога, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "83.748227 53.346468",
+                "upperCorner": "83.764684 53.356315"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgkxMDAxMDQ4MTYSbNCg0L7RgdGB0LjRjywg0JfQsNC_0LDQtNC90L4t0KHQuNCx0LjRgNGB0LrQsNGPINC20LXQu9C10LfQvdCw0Y8g0LTQvtGA0L7Qs9CwLCDRgdGC0LDQvdGG0LjRjyDQkdCw0YDQvdCw0YPQuyIKDU6Dp0IV02dVQg,,",
+            "Point": {
+              "pos": "83.756456 53.351391"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Республика Башкортостан, Аскинский сельсовет, лог Барнаул",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Республика Башкортостан, Аскинский сельсовет, лог Барнаул",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Приволжский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Республика Башкортостан"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Аскинский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Аскинский сельсовет"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "лог Барнаул"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Республика Башкортостан, Аскинский сельсовет, лог Барнаул",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Республика Башкортостан",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Аскинский район",
+                        "Locality": {
+                          "Premise": {
+                            "PremiseName": "лог Барнаул"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "лог Барнаул",
+            "description": "Аскинский сельсовет, Республика Башкортостан, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "56.738276 56.20869",
+                "upperCorner": "56.744753 56.216519"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo0OTE5Mjk1Mjc2EnnQoNC-0YHRgdC40Y8sINCg0LXRgdC_0YPQsdC70LjQutCwINCR0LDRiNC60L7RgNGC0L7RgdGC0LDQvSwg0JDRgdC60LjQvdGB0LrQuNC5INGB0LXQu9GM0YHQvtCy0LXRgiwg0LvQvtCzINCR0LDRgNC90LDRg9C7IgoNNfdiQhXS2WBC",
+            "Point": {
+              "pos": "56.741411 56.212715"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Новосибирская область, Венгеровский район, Вознесенский сельсовет, озеро Барнаул",
+                "kind": "hydro",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Новосибирская область, Венгеровский район, Вознесенский сельсовет, озеро Барнаул",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Сибирский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Новосибирская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Венгеровский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Вознесенский сельсовет"
+                    },
+                    {
+                      "kind": "hydro",
+                      "name": "озеро Барнаул"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Новосибирская область, Венгеровский район, Вознесенский сельсовет, озеро Барнаул",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Новосибирская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Венгеровский район",
+                        "Locality": {
+                          "Premise": {
+                            "PremiseName": "озеро Барнаул"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "озеро Барнаул",
+            "description": "Вознесенский сельсовет, Венгеровский район, Новосибирская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "76.406153 55.702936",
+                "upperCorner": "76.417121 55.708775"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgkxOTAwNDc4NjcSpAHQoNC-0YHRgdC40Y8sINCd0L7QstC-0YHQuNCx0LjRgNGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCDQktC10L3Qs9C10YDQvtCy0YHQutC40Lkg0YDQsNC50L7QvSwg0JLQvtC30L3QtdGB0LXQvdGB0LrQuNC5INGB0LXQu9GM0YHQvtCy0LXRgiwg0L7Qt9C10YDQviDQkdCw0YDQvdCw0YPQuyIKDebSmEIVzNJeQg,,",
+            "Point": {
+              "pos": "76.411911 55.705853"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Алтайский край, городской округ Барнаул, аэропорт Барнаул (Михайловка) имени Германа Степановича Титова",
+                "kind": "airport",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Алтайский край, городской округ Барнаул, аэропорт Барнаул (Михайловка) имени Германа Степановича Титова",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Сибирский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Алтайский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Барнаул"
+                    },
+                    {
+                      "kind": "airport",
+                      "name": "аэропорт Барнаул (Михайловка) имени Германа Степановича Титова"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Алтайский край, городской округ Барнаул, аэропорт Барнаул (Михайловка) имени Германа Степановича Титова",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Алтайский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Барнаул",
+                        "Locality": {
+                          "DependentLocality": {
+                            "DependentLocalityName": "аэропорт Барнаул (Михайловка) имени Германа Степановича Титова"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "аэропорт Барнаул (Михайловка) имени Германа Степановича Титова",
+            "description": "городской округ Барнаул, Алтайский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "83.513165 53.354971",
+                "upperCorner": "83.575697 53.372397"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgkxMDAxMDQ4NTASzQHQoNC-0YHRgdC40Y8sINCQ0LvRgtCw0LnRgdC60LjQuSDQutGA0LDQuSwg0LPQvtGA0L7QtNGB0LrQvtC5INC-0LrRgNGD0LMg0JHQsNGA0L3QsNGD0LssINCw0Y3RgNC-0L_QvtGA0YIg0JHQsNGA0L3QsNGD0LsgKNCc0LjRhdCw0LnQu9C-0LLQutCwKSDQuNC80LXQvdC4INCT0LXRgNC80LDQvdCwINCh0YLQtdC_0LDQvdC-0LLQuNGH0LAg0KLQuNGC0L7QstCwIgoNcBinQhUNclVC",
+            "Point": {
+              "pos": "83.547732 53.361377"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "street",
+                "text": "Россия, Воронежская область, Каменский район, Татаринское сельское поселение, село Татарино, улица Барнаул",
+                "kind": "street",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Воронежская область, Каменский район, Татаринское сельское поселение, село Татарино, улица Барнаул",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Центральный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Воронежская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Каменский район"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Татаринское сельское поселение"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "село Татарино"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "улица Барнаул"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Воронежская область, Каменский район, Татаринское сельское поселение, село Татарино, улица Барнаул",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Воронежская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Каменский район",
+                        "Locality": {
+                          "LocalityName": "село Татарино",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "улица Барнаул"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "улица Барнаул",
+            "description": "село Татарино, Татаринское сельское поселение, Каменский район, Воронежская область, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "39.129015 50.576084",
+                "upperCorner": "39.140352 50.581272"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgozNDQxNzM5MDg1EsQB0KDQvtGB0YHQuNGPLCDQktC-0YDQvtC90LXQttGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCDQmtCw0LzQtdC90YHQutC40Lkg0YDQsNC50L7QvSwg0KLQsNGC0LDRgNC40L3RgdC60L7QtSDRgdC10LvRjNGB0LrQvtC1INC_0L7RgdC10LvQtdC90LjQtSwg0YHQtdC70L4g0KLQsNGC0LDRgNC40L3Qviwg0YPQu9C40YbQsCDQkdCw0YDQvdCw0YPQuyIKDeaJHEIVh09KQg,,",
+            "Point": {
+              "pos": "39.134665 50.577662"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Алтайский край, Барнаул, пристань Барнаул",
+                "kind": "other",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Алтайский край, Барнаул, пристань Барнаул",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Сибирский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Алтайский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Барнаул"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Барнаул"
+                    },
+                    {
+                      "kind": "other",
+                      "name": "пристань Барнаул"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Алтайский край, Барнаул, пристань Барнаул",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Алтайский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Барнаул",
+                        "Locality": {
+                          "LocalityName": "Барнаул",
+                          "Premise": {
+                            "PremiseName": "пристань Барнаул"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "пристань Барнаул",
+            "description": "Барнаул, Алтайский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "83.76826 53.305949",
+                "upperCorner": "83.834142 53.345392"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgkxMDAxMDQ4NTMSWtCg0L7RgdGB0LjRjywg0JDQu9GC0LDQudGB0LrQuNC5INC60YDQsNC5LCDQkdCw0YDQvdCw0YPQuywg0L_RgNC40YHRgtCw0L3RjCDQkdCw0YDQvdCw0YPQuyIKDTeap0IVfU1VQg,,",
+            "Point": {
+              "pos": "83.801201 53.325675"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
