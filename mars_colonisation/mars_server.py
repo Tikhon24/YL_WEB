@@ -8,6 +8,7 @@ app = Flask(__name__)
 @app.route('/<title>')
 @app.route('/index/<title>')
 def index(title):
+    # заголовок страницы
     params = {
         'title': title
     }
