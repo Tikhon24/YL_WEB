@@ -1,5 +1,3 @@
-from fileinput import filename
-
 from flask import Flask
 from flask import url_for
 
